@@ -1,0 +1,5 @@
+.vscode
+.history
+build
+output
+semask_large_mask2former_ade20k.pth

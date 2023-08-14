@@ -1,0 +1,3 @@
+[submodule "SeMask-Segmentation"]
+	path = SeMask-Segmentation
+	url = https://github.com/Picsart-AI-Research/SeMask-Segmentation.git
